@@ -1,2 +1,2 @@
-# Santos
-Santos da Igreja Católica
+# Santíssima Trindade
+Igreja Católica
