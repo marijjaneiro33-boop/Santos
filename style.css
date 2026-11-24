@@ -1,0 +1,23 @@
+h2{
+    color:rgb(212, 204, 84);
+}
+
+body{
+    background-color:rgb(79, 5, 5);
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center ;
+}
+
+header{ 
+    border-bottom: 1px solid grey; 
+    font-family:'Times New Roman', Times, serifs;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-ingles{
+    font-style: italic ;
+}
